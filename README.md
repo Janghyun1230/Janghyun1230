@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![github stats](https://github-readme-stats-one-bice.vercel.app/api?username=Janghyun1230&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/Janghyun1230/github-readme-stats)
+
 <!--
 **Janghyun1230/Janghyun1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
