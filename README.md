@@ -1,4 +1,4 @@
-## Hi there 👋
+👋 Hi there! I'm Jang-Hyun, a Machine Learning researcher. You can find my work on my [homepage](https://janghyun1230.github.io).
 
 [![github stats](https://github-readme-stats-one-bice.vercel.app/api?username=Janghyun1230&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/Janghyun1230/github-readme-stats)
 
