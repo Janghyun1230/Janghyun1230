@@ -1,6 +1,8 @@
 👋 Hi there! I'm Jang-Hyun, a Machine Learning researcher. You can find my work on my [homepage](https://janghyun1230.github.io).
 
 [![github stats](https://github-readme-stats-one-bice.vercel.app/api?username=Janghyun1230&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/Janghyun1230/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janghyun1230&langs_count=10&layout=compact&hide=jupyter%20notebook)](https://github.com/Janghyun1230/Janghyun1230)﻿
+
 
 <!--
 **Janghyun1230/Janghyun1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
